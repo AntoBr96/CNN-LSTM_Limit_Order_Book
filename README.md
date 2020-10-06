@@ -6,7 +6,7 @@ The interested reder can find the original implementation of the model at https:
 If you use the proposed Keras/Tensorflow implementation in your work please cite:
 
 <pre>
-@software{briola_antonio_and_turiel_jeremy_david_2020_4068309,
+@misc{briola_antonio_and_turiel_jeremy_david_2020_4068309,
   author = {Briola, Antonio and Turiel, Jeremy David},
   title = {CNN-LSTM\_Limit\_Order\_Book: First Release},
   month = oct,
