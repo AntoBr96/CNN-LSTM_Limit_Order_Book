@@ -3,6 +3,21 @@ This notebook contains an independently developed Keras/Tensorflow implementatio
 
 The interested reder can find the original implementation of the model at https://github.com/zcakhaa/DeepLOB-Deep-Convolutional-Neural-Networks-for-Limit-Order-Books/blob/master/jupyter/run_train_represent.ipynb.
 
+If you use the proposed Keras/Tensorflow implementation in your work please cite:
+
+<pre>
+@software{antobr96_2020_4068309,
+  author = {AntoBr96},
+  title = {AntoBr96/CNN-LSTM\_Limit\_Order\_Book: First Release},
+  month = oct,
+  year = 2020,
+  publisher = {Zenodo},
+  version = {v1.0},
+  doi = {10.5281/zenodo.4068309},
+  url = {https://doi.org/10.5281/zenodo.4068309}
+}
+</pre>
+
 Please **always** remember to cite the original papers this work is based on:
 
 <pre>
