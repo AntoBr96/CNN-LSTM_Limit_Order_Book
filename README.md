@@ -6,6 +6,17 @@ The interested reder can find the original implementation of the model at https:
 If you use the proposed Keras/Tensorflow implementation in your work please cite:
 
 <pre>
+@article{briola2020deep,
+  title={Deep Learning modeling of Limit Order Book: a comparative perspective},
+  author={Briola, Antonio and Turiel, Jeremy and Aste, Tomaso},
+  journal={arXiv preprint arXiv:2007.07319},
+  year={2020}
+}
+</pre>
+
+and
+
+<pre>
 @misc{briola_antonio_and_turiel_jeremy_david_2020_4068309,
   author = {Briola, Antonio and Turiel, Jeremy David},
   title = {CNN-LSTM\_Limit\_Order\_Book: First Release},
@@ -30,14 +41,5 @@ Please **always** remember to cite the original papers this work is based on:
   pages={3001--3012},
   year={2019},
   publisher={IEEE}
-}
-</pre>
-
-<pre>
-@article{briola2020deep,
-  title={Deep Learning modeling of Limit Order Book: a comparative perspective},
-  author={Briola, Antonio and Turiel, Jeremy and Aste, Tomaso},
-  journal={arXiv preprint arXiv:2007.07319},
-  year={2020}
 }
 </pre>
