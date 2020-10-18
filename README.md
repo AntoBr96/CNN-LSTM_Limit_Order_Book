@@ -19,7 +19,7 @@ and
 <pre>
 @misc{briola_antonio_and_turiel_jeremy_david_2020_4068530,
   author       = {Briola, Antonio and Turiel, Jeremy David},
-  title        = {AntoBr96/CNN-LSTM\_Limit\_Order\_Book: Second Release},
+  title        = {CNN-LSTM\_Limit\_Order\_Book\_Tensorflow},
   month        = oct,
   year         = 2020,
   publisher    = {Zenodo},
