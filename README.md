@@ -17,15 +17,15 @@ If you use the proposed Keras/Tensorflow implementation in your work please cite
 and
 
 <pre>
-@misc{briola_antonio_and_turiel_jeremy_david_2020_4068309,
-  author = {Briola, Antonio and Turiel, Jeremy David},
-  title = {CNN-LSTM\_Limit\_Order\_Book: First Release},
-  month = oct,
-  year = 2020,
-  publisher = {Zenodo},
-  version = {v1.0},
-  doi = {10.5281/zenodo.4068309},
-  url = {https://doi.org/10.5281/zenodo.4068309}
+@misc{briola_antonio_and_turiel_jeremy_david_2020_4068530,
+  author       = {Briola, Antonio and Turiel, Jeremy David},
+  title        = {AntoBr96/CNN-LSTM\_Limit\_Order\_Book: Second Release},
+  month        = oct,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.1},
+  doi          = {10.5281/zenodo.4068530},
+  url          = {https://doi.org/10.5281/zenodo.4068530}
 }
 </pre>
 
